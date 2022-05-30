@@ -1,0 +1,22 @@
+Chrome Extensions for Netsuite Cousultants / Developers 
+
+1. NetSuite Field Explorer
+https://chrome.google.com/webstore/detail/netsuite-field-explorer/cekalaapeajnlhphgdpmngmollojdfnd
+
+2. NetSuite Scripted Records
+https://chrome.google.com/webstore/detail/netsuite-scripted-records/dkhjafbceiceaidnbbilhphhkanlpkkj
+
+3. NetSuite: Search Export
+https://chrome.google.com/webstore/detail/netsuite-search-export/gglbgdfbkaelbjpjkiepdmfaihdokglp
+
+4. NetSuite Advanced Field Help
+https://chrome.google.com/webstore/detail/netsuite-advanced-field-h/ehgcekpdldhgfjpionbkilpnaahjiejj
+
+5. NetSuite: Show Field IDs
+https://chrome.google.com/webstore/detail/netsuite-show-field-ids/pnhdmfiakolonplgblabffnpfhfplmbh
+
+6. NetSuite Helper for Your Works
+https://chrome.google.com/webstore/detail/netsuite-helper-for-your/cmcbjeplgojjjgmpmagjllbnonaagcoj
+
+7. NetSuite :: Saved Search Export to SS 2.x
+https://chrome.google.com/webstore/detail/netsuite-saved-search-exp/cbpefhoehnbljgflflncaejfmkmofoje
